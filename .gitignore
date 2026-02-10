@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Terraform variables
+*.tfvars
+
+# OS
+.DS_Store
+Thumbs.db
+git-filter-repo
